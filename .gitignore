@@ -1,1 +1,13 @@
 target
+.idea/
+.project
+.settings/
+server/.classpath
+server/.project
+server/.settings/
+server/src/main/main.iml
+server/src/main/main.iml___jb_tmp___
+webapp/.classpath
+webapp/.gitignore
+webapp/.project
+webapp/.settings/
